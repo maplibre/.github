@@ -1,6 +1,6 @@
 # MapLibre organization profile
 
-This repository contains our orgaisations profile at <https://github.org/maplibre>.
+This repository contains our organisations profile at <https://github.org/maplibre>.
 
 If a community health file (such as `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `ISSUE_TEMPLATE`, `PULL_REQUEST_TEMPLATE`, `SUPPORT.md`) is not present in an individual repository, [GitHub will use](https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/?utm_source=chatgpt.com) the version in this repo as the default.
 
